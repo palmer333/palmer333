@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Palm. 
-- 👀 I’m interested in front-end developer
+- 👀 I’m interested in front-end developer.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 <!---
